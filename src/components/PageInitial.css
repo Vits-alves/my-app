@@ -1,0 +1,43 @@
+.titulo {
+    margin: 50px;
+    font-style: italic;
+    color: rgb(70, 67, 67);
+}
+
+.input {
+    height: 40px;
+    width: 30%;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+}
+
+.button {
+    margin-top: -3px;
+    margin-left: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+}
+
+.Card{
+    flex: 1;
+    border-radius: 30px;
+    background-color: white;
+    margin-top: 75px;
+    width: 300px;
+    height: 400px;
+}
+
+.city {
+    align-items: start;
+    margin-top: 10px;
+}
+
+.city-temp {
+    font-size: 2.4rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+
+
